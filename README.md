@@ -1,6 +1,6 @@
 # Remove_Patches
 
-** This tool will help you in removal windows updates that were installed on specific date.
+** This tool will help you in removal of windows updates that were installed on specific date.
 ** Windows7 and above.
 
 ** PLease fork and you are free to modify :) 
