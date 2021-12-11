@@ -4,7 +4,7 @@
 ** Windows7 and above.
 
 ** PLease fork and you are free to modify :) 
-** You cam download Executable https://github.com/prax78/Remove_Patches/blob/master/Remove%20Patches%20V0.1.zip
+** You can download Executable https://github.com/prax78/Remove_Patches/blob/master/Remove%20Patches%20V0.1.zip
 
       
       
